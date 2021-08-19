@@ -1,0 +1,24 @@
+{
+	"slides": {
+		"cobalt": {
+			"name": "Cobalt",
+			"template": "cobalt.html"
+		},
+		"first": {
+			"name": "First",
+			"template": "first.html"
+		}
+	},
+	"chapters": {
+		"main": {
+			"name": "Main chapter",
+			"content": [
+				"cobalt",
+        "first"
+			]
+		}
+	},
+	"storyboard": [
+		"main"
+	]
+}
