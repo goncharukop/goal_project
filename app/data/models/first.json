@@ -1,3 +1,13 @@
 {
-  
+  "header": {
+    "html": "t.header"
+  },
+  "il": {
+    "src": "media/images/first/example.jpg",
+    "position": "center center",
+    "size": "contain"
+  },
+  "gtext1": {
+    "html": "t.gtext1"
+  }
 }

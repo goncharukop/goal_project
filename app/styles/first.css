@@ -1,1 +1,43 @@
- 
+.pa {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#mainContainer {
+  left: 50px;
+  top: 100px;
+  width: 924px;
+  height: 568px;
+  border-radius: 35px;
+  background-color: rgb(50, 209, 103);
+}
+#header {
+  top: 14px;
+  left: 360px;
+  font-family: "Disney";
+  font-size: 72px;
+  line-height: 1;
+  color: rgb(34, 117, 66);
+  text-transform: capitalize;
+}
+#drag {
+  top: 20px;
+  left: 550px;
+  width: 240px;
+  height: 260px;
+  border-radius: 10px;
+  z-index: 99;
+}
+#il {
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+#gtext1 {
+  top: 10px;
+  left: 26px;
+  font-family: "LetterGothic-Bold";
+  font-size: 20px;
+}

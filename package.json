@@ -8,11 +8,14 @@
     "spa-ctl": "./spa-ctl"
   },
   "dependencies": {
-    "core": "~3.7.0",
-    "spa": "~3.6.5",
+    "co-bar-graph": "2.8.3",
     "co-collection": "~4.3.6",
     "co-container": "~3.0.2",
+    "co-draggable": "2.0.8",
+    "co-image": "~2.3.9",
+    "co-table": "7.4.11",
     "co-text": "~2.4.8",
-    "co-image": "~2.3.9"
+    "core": "~3.7.0",
+    "spa": "~3.6.5"
   }
 }
